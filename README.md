@@ -63,7 +63,7 @@ https://www.kaggle.com/wiki/MeanFScore http://scikit-learn.org/stable/modules/ge
 ![alt text](https://github.com/Muk200/Stack_overflow_tags_prediction/blob/main/img.png)
 
 
-# EDA tag anaalysis
+# EDA tag analysis
 1. Number of times tag appeared
 2. sort them in descending order
 3. plot quantites for top 100
